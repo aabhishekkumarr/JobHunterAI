@@ -1,0 +1,18 @@
+backend/
+│
+├── app/
+│   ├── main.py
+│   ├── api/
+│   ├── agents/
+│   ├── core/
+│   ├── db/
+│   ├── models/
+│   ├── schemas/
+│   ├── services/
+│   ├── utils/
+│
+├── config/
+├── requirements.txt
+├── docker-compose.yml
+├── alembic.ini
+└── .env.example
